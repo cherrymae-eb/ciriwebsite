@@ -80,7 +80,7 @@
 }
 
 .content h1{
-    font-size: 40px;
+    font-size: 35px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(17, 17, 17);
 }
@@ -90,7 +90,7 @@
 }
 
 .content p{
-    font-size: 15px;
+    font-size: 13px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 25px;
     margin-top: 10px;
